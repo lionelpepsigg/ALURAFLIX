@@ -9,7 +9,7 @@ body {
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
-    font-size: 302px;
+    font-size: 32px;
     color: rgb(255, 231, 20);
 }
 
@@ -22,7 +22,7 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 50%;
 }
 
 h1 {
